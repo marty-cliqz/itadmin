@@ -14,6 +14,7 @@
 - Enter `Passwort wiederholen` (Repeat Password)
 - Check '1&1 Anti-SPAM'
 - Select 'Speichern'
+- Send [Email](mailto:aline@cliqz.com,stephie@cliqz.com,eva@cliqz.com,laura@cliqz.com?subject=Please%20add%20to%20allhands&body=Please%20add%20the%20following%20address%20to%20allhands:) to Aline, Stephie, Eva and Laura advising of email to add to Allhands.
 
 ---
 
